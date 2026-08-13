@@ -1,0 +1,17 @@
+# 12/08/2026
+# Aula de Testes de Software com pytest 
+
+Projeto prático voltado para a criação e execução de testes automatizados em Python utilizando o framework pytest.
+
+## Conteúdos
+- Testes com pytest
+- Parametrização
+- Testes de exceção
+- Testes de valores limite
+- Relatório HTML
+
+## Executar os testes
+python -m pytest -v
+
+## Gerar o relatório
+python -m pytest -v --html=relatorio_testes.html --self-contained-html
