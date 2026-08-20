@@ -1,4 +1,4 @@
-# Repositório Destinado às aulas de Testes de Softeare
+# Repositório Destinado às aulas de Testes de Software
 
 # Aluno: Samuel Vinícius
 # Turma: ECP08NA
